@@ -1,4 +1,4 @@
-KinectTemporalMaskEditor
-========================
+KinectMaskTest
+==============
 
-Using a Kinect to control temporal distortion of the kinect video input.
+Trying to get a good temporal distortion mask from Kinect's depth map.
